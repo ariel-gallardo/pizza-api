@@ -1,0 +1,4 @@
+/bin
+/obj
+WeatherForecast.cs
+/Controllers/WeatherForecastController.cs
